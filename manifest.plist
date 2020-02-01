@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://106.187.107.19/hoscrm/app/ios/repairApp.ipa</string>
+					<string>https://crmjp.hisense.com/hoscrm/app/ios/repairApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://106.187.107.19/hoscrm/app/ios/Icon-57.png</string>
+					<string>https://crmjp.hisense.com/hoscrm/app/ios/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://106.187.107.19/hoscrm/app/ios/Icon-512.png</string>
+					<string>https://crmjp.hisense.com/hoscrm/app/ios/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
